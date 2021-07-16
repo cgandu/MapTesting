@@ -1,0 +1,50 @@
+REGION,AREA PROTEGIDA,INSTRUMENTO DE CREACION,AÑO,HECTAREAS,PROVINCIA,LAT,LAT.GMS,LONG,LONG.GMS,ECORREGION,CAT.INTERNACIONAL,VISITANTES ANUALES,ESPECIES REGISTRADAS,ANIMALES,BACTERIAS,HONGOS,PLANTAS
+CENTRO,Parque Nacional Campos del Tuyú,Ley Nacional 26.499/09,2009,3040.00,Buenos Aires,-36.35444,36° 21' 15.984'' S,-56.87624,56° 52' 34.464'' W,Pampa,Sitio RAMSAR,,554,346,,,208
+CENTRO,Parque Nacional Ciervo de los Pantanos,Ley Nacional 27.456/18,2018,5200.00,Buenos Aires,-34.2345,34° 14' 4.2'' S,-58.87724,58° 52' 38.064'' W,Delta e Islas del Paraná,Sitio RAMSAR,6515,933,465,1,1,466
+CENTRO,Parque Nacional El Leoncito,Ley Nacional 25.656/02,2002,89.71,San Juan,-31.88935,31° 53' 21.66'' S,-69.26514,69° 15' 54.504'' W,"Altos Andes, Monte de Sierras y Bolsones, Puna",,21804,758,171,6,9,572
+CENTRO,Parque Nacional El Palmar,Ley Nacional 16.802/65,1965,8213.00,Entre Rios,-31.88216,31° 52' 55.776'' S,-58.25668,58° 15' 24.048'' W,Espinal,Sitio RAMSAR,143221,1310,542,,44,724
+CENTRO,Parque Nacional Islas de Santa Fé,Ley Nacional 26.648/10,2010,4096.00,Santa Fe,-32.27913,32° 16' 44.868'' S,-60.72,60° 43' 12'' W,Delta e Islas del Paraná,Sitio RAMSAR,,382,141,,,241
+CENTRO,Parque Nacional Pre-Delta,Ley Nacional 24.063/92,1992,2608.00,Entre Rios,-32.14052,32° 8' 25.872'' S,-60.64033,60° 38' 25.188'' W,Delta e Islas del Paraná,Sitio RAMSAR,4402,1109,514,,2,593
+CENTRO,Parque Nacional Quebrada del Condorito,Ley Nacional 24.749/96,1996,35.40,Cordoba,-31.69761,31° 41' 51.396'' S,-64.78331,64° 46' 59.916'' W,Chaco Seco,,25482,845,329,1,13,502
+CENTRO,Parque Nacional San Guillermo,Ley Nacional 25.077/99,1999,166.00,San Juan,-29.23817,29° 14' 17.412'' S,-69.26616,69° 15' 58.176'' W,"Altos Andes, Monte de Sierras y Bolsones, Puna","Reserva de Biósfera, Sitio de Patrimonio Mundial",46,582,143,6,9,424
+CENTRO,Parque Nacional Sierra de las Quijadas,Ley Nacional 24.015/91,1991,73.79,San Luis,-32.55677,32° 33' 24.372'' S,-67.13459,67° 8' 4.524'' W,"Chaco Seco, Monte de Sierras y Bolsones",Sitio RAMSAR,23362,581,337,,6,238
+CENTRO,Parque Nacional Talampaya,Ley Nacional 24.846/97,1997,213.80,La Rioja,-29.85015,29° 51' 0.54'' S,-67.87759,67° 52' 39.324'' W,Monte de Sierras y Bolsones,Sitio de Patrimonio Mundial,76526,356,226,,8,122
+CENTRO,Parque Nacional Traslasierra,Ley Nacional 27.435/18,2018,44.17,Cordoba,-30.99468,30° 59' 40.848'' S,-65.6267,65° 37' 36.12'' W,Chaco Seco,,,339,303,,,36
+NEA,Parque Nacional Chaco,Ley Nacional 14.366/54,1954,14.98,Chaco,-26.82658,26° 49' 35.688'' S,-59.65506,59° 39' 18.216'' W,Chaco Húmedo,,7750,883,593,1,7,282
+NEA,Parque Nacional El Impenetrable,Ley Nacional 26.996/14,2014,128.00,Chaco,-25.00468,25° 0' 16.848'' S,-61.10564,61° 6' 20.304'' W,Chaco Seco,,,107,13,,,94
+NEA,Parque Nacional Iberá,Ley Nacional 27481/18,2018,195.09,Corrientes,-27.93238,27° 55' 56.568'' S,-56.93083,56° 55' 50.988'' W,Esteros del Iberá,,,132,130,,,2
+NEA,Parque Nacional Iguazú,Ley Nacional 12.103/34,1934,67.70,Misiones,-25.66836,25° 40' 6.096'' S,-54.31053,54° 18' 37.908'' W,Selva Paranense,Sitio de Patrimonio Mundial,1024558,3057,1733,,330,994
+NEA,Parque Nacional Mburucuyá,Ley Nacional 25.447/02,2002,17.09,Corrientes,-28.01299,28° 0' 46.764'' S,-58.06922,58° 4' 9.192'' W,Esteros del Iberá,,4542,2027,658,,5,1364
+NEA,Parque Nacional Río Pilcomayo,Ley Nacional 14.073/51,1951,51.89,Formosa,-25.06531,25° 3' 55.116'' S,-58.13715,58° 8' 13.74'' W,Chaco Húmedo,Sitio RAMSAR,9843,1324,754,,2,568
+NEA,Reserva Natural Educativa Colonia Benítez,Decreto Nacional 2.149/90,1990,8.00,Chaco,-27.31754,27° 19' 3.144'' S,-58.94984,58° 56' 59.424'' W,Chaco Húmedo,,948,495,239,,,256
+NEA,Reserva Natural Estricta San Antonio,Decreto Nacional 2.149/90,1990,480.00,Misiones,-26.01709,26° 1' 1.524'' S,-53.78987,53° 47' 23.532'' W,Selva Paranense,,,536,376,,2,158
+NOA,Monumento Natural Laguna de los Pozuelos,Ley Provincial 3.749/80,1980,16.00,Jujuy,-22.34173,22° 20' 30.228'' S,-66.00193,66° 0' 6.948'' W,Puna,"Reserva de Biósfera, Sitio RAMSAR",1826,505,209,23,1,272
+NOA,Parque Nacional Aconquija,Ley Nacional 24.526/95 - 26.630/10 - 27.451/18,2018,76.21,Tucuman,-27.19383,27° 11' 37.788'' S,-65.95758,65° 57' 27.288'' W,"Altos Andes, Yungas",Sitio de Patrimonio Mundial,3237,884,450,,44,390
+NOA,Parque Nacional Baritú,Ley Nacional 20.656/74,1974,72.44,Salta,-22.58199,22° 34' 55.164'' S,-64.64422,64° 38' 39.192'' W,Yungas,Reserva de Biósfera,154,1450,756,,75,619
+NOA,Parque Nacional Calilegua,Decreto Nacional 1.733/79,1979,76.31,Jujuy,-23.66054,23° 39' 37.944'' S,-64.85,64° 50' 60'' W,Yungas,Reserva de Biósfera,22337,2519,1449,,48,1022
+NOA,Parque Nacional Copo,Ley Nacional 25.366/00,2000,118.12,Santiago Del Estero,-25.82089,25° 49' 15.204'' S,-61.88005,61° 52' 48.18'' W,Chaco Seco,,,742,491,,31,220
+NOA,Parque Nacional El Rey,Decreto Nacional 18.800/48,1948,44.16,Salta,-24.70046,24° 42' 1.656'' S,-64.62734,64° 37' 38.424'' W,Yungas,,662,1934,760,18,28,1128
+NOA,Parque Nacional Los Cardones,Ley Nacional 24.737/96,1996,64.12,Salta,-25.27733,25° 16' 38.388'' S,-65.93186,65° 55' 54.696'' W,"Altos Andes, Monte de Sierras y Bolsones, Puna, Yungas",,9297,1123,413,,73,637
+NOA,Reserva Nacional El Nogalar de los Toldos,Ley Nacional 26.129/06,2006,3275.00,Salta,-22.26581,22° 15' 56.916'' S,-64.75309,64° 45' 11.124'' W,Yungas,Reserva de Biósfera,1086,825,292,,24,509
+NOA,Reserva Nacional Pizarro,Ley Nacional 27.093/15,2015,7837.00,Salta,-24.17,24° 10' 12'' S,-64.06249,64° 3' 44.964'' W,"Chaco Seco, Yungas",,,699,500,,,199
+NOA,Reserva Natural Formosa,Ley Nacional 17.916/68,1968,9005.00,Formosa,-24.27366,24° 16' 25.176'' S,-61.80071,61° 48' 2.556'' W,Chaco Seco,Reserva de Biósfera,84,514,401,,1,112
+PATA AUSTRAL,Parque Interjurisdiccional Marino Isla Pingüino,Ley Nacional 26.818/12,2012,159.53,Santa Cruz,-48.15,48° 8' 60'' S,-65.94458,65° 56' 40.488'' W,Mar Argentino,,,10,10,,,
+PATA AUSTRAL,Parque Interjurisdiccional Marino Makenke,Ley Nacional 26.817/12,2012,72.66,Santa Cruz,-49.54806,49° 32' 53.016'' S,-67.62472,67° 37' 28.992'' W,Mar Argentino,,,9,9,,,
+PATA AUSTRAL,Parque Nacional Bosques Petrificados de Jaramillo,Decreto Nacional 7.252/54 - Ley Nacional 26.825/12,1954,78.54,Santa Cruz,-47.69349,47° 41' 36.564'' S,-68.06604,68° 3' 57.744'' W,Estepa Patagónica,,3729,362,160,,,202
+PATA AUSTRAL,Parque Nacional Los Glaciares,Decreto Nacional 105.433/37,1937,731.93,Santa Cruz,-49.9469,49° 56' 48.84'' S,-73.15797,73° 9' 28.692'' W,"Bosques Patagónicos, Estepa Patagónica",Sitio de Patrimonio Mundial,693584,978,215,3,21,739
+PATA AUSTRAL,Parque Nacional Monte León,Ley Nacional 25.945/04,2004,62.17,Santa Cruz,-50.31667,50° 19' 0.012'' S,-68.97287,68° 58' 22.332'' W,Estepa Patagónica,,7474,376,158,,,218
+PATA AUSTRAL,Parque Nacional Patagonia,"Ley Nacional y Decreto Nacional L.N. 27.081/15, D.N. 838/18",2015,106.42,Santa Cruz,-47.15918,47° 9' 33.048'' S,-71.31701,71° 19' 1.236'' W,Estepa Patagónica,,,269,61,,,208
+PATA AUSTRAL,Parque Nacional Perito Moreno,Decreto Nacional 105.433/37,1937,142.12,Santa Cruz,-47.88697,47° 53' 13.092'' S,-72.25014,72° 15' 0.504'' W,"Bosques Patagónicos, Estepa Patagónica",,918,589,191,,1,397
+PATA AUSTRAL,Parque Nacional Tierra del Fuego,Ley Nacional 15.554/60,1960,68.91,Tierra Del Fuego,-54.64226,54° 38' 32.136'' S,-68.48597,68° 29' 9.492'' W,Bosques Patagónicos,,167535,661,215,,55,391
+PATA AUSTRAL,Reserva Natural Silvestre Isla de los Estados y Archipiélago de Año Nuevo,Decreto Nacional 929/16,2016,52.78,Tierra Del Fuego,-54.76715,54° 46' 1.74'' S,-64.27798,64° 16' 40.728'' W,Bosques Patagónicos,,,,,,,
+PATA NORTE,Parque Interjurisdiccional Marino Costero Patagonia Austral,Ley Nacional 26.446/09,2009,103.57,Chubut,-45.07224,45° 4' 20.064'' S,-66.09692,66° 5' 48.912'' W,"Estepa Patagónica, Mar Argentino",Reserva de Biósfera,,98,79,,,19
+PATA NORTE,Parque Nacional Lago Puelo,Decreto Nacional Decreto Nac. 105.433/37 - Ley Nac. 19.292/71,1937,27.67,Chubut,-42.17903,42° 10' 44.508'' S,-71.68728,71° 41' 14.208'' W,Bosques Patagónicos,Reserva de Biósfera,43701,1159,260,,124,775
+PATA NORTE,Parque Nacional Laguna Blanca,Decreto-Ley Nacional 63.601/40,1940,11.25,Neuquen,-39.03034,39° 1' 49.224'' S,-70.35218,70° 21' 7.848'' W,Estepa Patagónica,Sitio RAMSAR,3215,663,236,1,,426
+PATA NORTE,Parque Nacional Lanín,Decreto Nacional 105.433/37,1937,412.00,Neuquen,-39.85001,39° 51' 0.036'' S,-71.43103,71° 25' 51.708'' W,Bosques Patagónicos,Reserva de Biósfera,110788,1285,435,7,126,717
+PATA NORTE,Parque Nacional Lihué Calel,Decreto Nacional 609/76,1976,32.51,La Pampa,-37.93488,37° 56' 5.568'' S,-65.60471,65° 36' 16.956'' W,Monte de Llanuras y Mesetas,,5399,791,323,,2,466
+PATA NORTE,Parque Nacional Los Alerces,Decreto Nacional 105.433/37,1937,259.82,Chubut,-42.84453,42° 50' 40.308'' S,-71.83818,71° 50' 17.448'' W,Bosques Patagónicos,"Reserva de Biósfera, Sitio de Patrimonio Mundial",137362,1144,378,17,149,598
+PATA NORTE,Parque Nacional Los Arrayanes,Ley Nacional 19.292/71,1971,1796.00,Neuquen,-40.82941,40° 49' 45.876'' S,-71.62874,71° 37' 43.464'' W,Bosques Patagónicos,Reserva de Biósfera,,415,154,,108,153
+PATA NORTE,Parque Nacional Nahuel Huapi,Ley Nacional 12.103/34,1934,717.26,Rio Negro,-40.95411,40° 57' 14.796'' S,-71.53639,71° 32' 11.004'' W,"Bosques Patagónicos, Estepa Patagónica",Reserva de Biósfera,399758,2963,702,150,703,1408
+SNAMP,Área Marina Protegida Namuncurá - Banco Burdwood I,Decreto Nacional 888/19,2013,2800000.00,Mar Argentino,-54.33145,54° 19' 53.22'' S,-59.23917,59° 14' 21.012'' W,Mar Argentino,,,45,44,,,1
+SNAMP,Área Marina Protegida Namuncurá - Banco Burdwood II,Ley Nacional 27.490/18,2018,3233630.00,Mar Argentino,-55.18245,55° 10' 56.82'' S,-59.80421,59° 48' 15.156'' W,Mar Argentino,,,73,72,,,1
+SNAMP,Área Marina Protegida Yaganes,Ley Nacional 27.490/18,2018,6883431.00,Mar Argentino,-56.93301,56° 55' 58.836'' S,-65.4582,65° 27' 29.52'' W,Mar Argentino,,,45,45,,,
